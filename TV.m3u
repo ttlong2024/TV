@@ -16,7 +16,6 @@ https://live.fptplay53.net/live/media/vtv10/live247-hls-avc/vtv10-avc1_5600000=1
 #EXTINF:-1 tvg-id="htv2hd" group-title="💛[HTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/HTV2.png",HTV2
 https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htv7hd" group-title="💛[HTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/HTV7.png",HTV7
-#https://live.fptplay53.net/epzhd1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/live/media/htv7/live247-hls-avc/htv7-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="htv9hd" group-title="💛[HTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/HTV9.png",HTV9
 https://live.fptplay53.net/live/media/htv9/live247-hls-avc/htv9-avc1_5600000=10000-mp4a_131600=20000.m3u8
@@ -25,8 +24,6 @@ https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="antvhd" group-title="💚[THIẾT YẾU]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/ANTV.png",ANTV
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="qpvnhd" group-title="💚[THIẾT YẾU]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/QPVN.png",QPVN
-https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="sctv6hd" group-title="💚[THIẾT YẾU]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/SCTV6.png",SCTV6
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="sctv2hd" group-title="💚[THIẾT YẾU]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/SCTV2.png",SCTV2
