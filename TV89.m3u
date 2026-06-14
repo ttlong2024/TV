@@ -60,7 +60,11 @@ https://liveh12.vtvprime.vn/hls/SCTV2/03.m3u8
 #EXTINF:-1 tvg-id="sctv6hd" group-title="💚[THIẾT YẾU]" tvg-logo="https://i.imgur.com/2oOVS42.png",SCTV6
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="💚[THIẾT YẾU]" tvg-logo="https://i.imgur.com/CyFnZs1.png",SCTV PHIM
-https://hoiquan.dpdns.org/VTVGo/?sctvphim
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vpsttt.vietanhtv.top/sctv/cleankey.php?id=sctvphim
+https://liveatmvng.vtvprime.vn/live/data8/SCTVPHIM/Live_DASHDRM/SCTVPHIM.mpd
 
 #EXTINF:-1 tvg-id="hanoi1" group-title="📺[ĐỊA PHƯƠNG]" tvg-logo="https://i.imgur.com/mwCTDMj.png",TH HÀ NỘI 1
 https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist_b5000000.m3u8
