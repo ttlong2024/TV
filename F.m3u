@@ -97,15 +97,20 @@ https://live.fptplay53.net/epzhd2/vinhlong4-hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vinhlong5hd" group-title="📺[ĐỊA PHƯƠNG]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/VL5.png",TH VĨNH LONG 5
 https://live.fptplay53.net/epzhd2/vinhlong5hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="cantho1" group-title="📺[ĐỊA PHƯƠNG]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/CT1.png",TH CẦN THƠ 1
-https://live.fptplay53.net/epzsd1/cantho_hls.smil/chunklist_b2500000.m3u8
+#https://live.fptplay53.net/epzsd1/cantho_hls.smil/chunklist_b2500000.m3u8
+https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/cantho1-720p.m3u8
 #EXTINF:-1 tvg-id="cantho2" group-title="📺[ĐỊA PHƯƠNG]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/CT2.png",TH CẦN THƠ 2
-https://live.fptplay53.net/epzsd1/cantho02_vhls.smil/chunklist.m3u8
+#https://live.fptplay53.net/epzsd1/cantho02_vhls.smil/chunklist.m3u8
+https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/cantho2-720p.m3u8
 #EXTINF:-1 tvg-id="cantho3" group-title="📺[ĐỊA PHƯƠNG]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/CT3.png",TH CẦN THƠ 3
-https://live.fptplay53.net/epzsd1/cantho03_hls.smil/chunklist_b2500000.m3u8
+#https://live.fptplay53.net/epzsd1/cantho03_hls.smil/chunklist_b2500000.m3u8
+https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/cantho3-720p.m3u8
 #EXTINF:-1 tvg-id="dongthap1" group-title="📺[ĐỊA PHƯƠNG]" tvg-logo="https://i.imgur.com/UfOw13y.png",TH ĐỒNG THÁP 1
-https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8
+#https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8
+https://618b88f69e53b.streamlock.net/THDT/thdttv/chunklist_w1327270202.m3u8
 #EXTINF:-1 tvg-id="dongthap2" group-title="📺[ĐỊA PHƯƠNG]" tvg-logo="https://i.imgur.com/WXebESa.png",TH ĐỒNG THÁP 2
-https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist_b5000000.m3u8
+#https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist_b5000000.m3u8
+https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist_w739590088.m3u8
 #EXTINF:-1 tvg-id="tayninh1" group-title="📺[ĐỊA PHƯƠNG]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/TN.png",TH TÂY NINH
 https://live.fptplay53.net/epzsd1/tayninh01_hls.smil/chunklist.m3u8
 
