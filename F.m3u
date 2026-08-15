@@ -9,7 +9,7 @@ https://vips-livecdn.fptplay.net/live/media/vtv3/live247-hls-avc/vtv3-avc1_56000
 #EXTINF:-1 tvg-id="vtv4hd" group-title="💕[VTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/VTV4.png",VTV4
 https://vips-livecdn.fptplay.net/live/media/vtv4/live247-hls-avc/vtv4-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="💕[VTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/VNTODAY.png",VIETNAM TODAY
-https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
+https://vips-livecdn.fptplay.net/live/media/vietnamtoday/live-hls-avc/vietnamtoday-avc1_4000000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" group-title="💕[VTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/VTV5.png",VTV5
 https://vips-livecdn.fptplay.net/live/media/vtv5/live247-hls-avc/vtv5-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="💕[VTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/VTV5-TNB.png",VTV5-TNB
