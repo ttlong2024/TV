@@ -37,15 +37,16 @@ https://livezenatm.vtvprime.vn/live/data8/VTV6_HD/Live_DASHDRM/VTV6_HD.mpd
 #EXTINF:-1 tvg-id="htv2hd" group-title="💛[HTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/HTV2.png",HTV2
 https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htv7hd" group-title="💛[HTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/HTV7.png",HTV7
-https://live.fptplay53.net/live/media/htv7/live247-hls-avc/htv7-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://vips-livecdn.fptplay.net/live/media/htv7/live247-hls-avc/htv7-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="htv9hd" group-title="💛[HTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/HTV9.png",HTV9
+#https://vips-livecdn.fptplay.net/live/media/htv9/live247-hls-avc/htv9-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/livesnv2/HTV9/manifest.mpd
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="💛[HTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/HTVTT.png",HTV THỂ THAO
-https://live.fptplay53.net/live/media/htvthethao/live247-hls-avc/htvthethao-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://vips-livecdn.fptplay.net/live/media/htvthethao/live247-hls-avc/htvthethao-avc1_5600000=10000-mp4a_131600=20000.m3u8
 
 #EXTINF:-1 tvg-id="antvhd" group-title="💚[THIẾT YẾU]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/ANTV.png",ANTV
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
