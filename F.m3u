@@ -28,15 +28,15 @@ https://vips-livecdn.fptplay.net/live/media/vtv9/live247-hls-avc/vtv9-avc1_56000
 https://vips-livecdn.fptplay.net/live/media/vtv10/live247-hls-avc/vtv10-avc1_5600000=10000-mp4a_131600=20000.m3u8
 
 #EXTINF:-1 tvg-id="htv1" group-title="💛[HTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/HTV1.png",HTV1
-https://live.fptplay53.net/epzhd1/htv1_vhls.smil/chunklist_b2500000.m3u8
+https://vmttv.dpdns.org/tv360/?id=190
 #EXTINF:-1 tvg-id="htv2hd" group-title="💛[HTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/HTV2.png",HTV2
-https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
+https://vmttv.dpdns.org/tv360/?id=191
 #EXTINF:-1 tvg-id="htv3" group-title="💛[HTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/HTV3.png",HTV3
-https://live.fptplay53.net/epzhd1/htv3_vhls.smil/chunklist_b5000000.m3u8
+https://vmttv.dpdns.org/tv360/?id=192
 #EXTINF:-1 tvg-id="htv4" group-title="💛[HTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/HTV4.png",HTV4
-https://live.fptplay53.net/epzhd1/htv4_vhls.smil/chunklist_b5000000.m3u8
+https://vmttv.dpdns.org/tv360/?id=9
 #EXTINF:-1 tvg-id="htv5" group-title="💛[HTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/HTV5.png",HTV5
-https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8
+https://vmttv.dpdns.org/tv360/?id=151
 #EXTINF:-1 tvg-id="htv7hd" group-title="💛[HTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/HTV7.png",HTV7
 https://vips-livecdn.fptplay.net/live/media/htv7/live247-hls-avc/htv7-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="htv9hd" group-title="💛[HTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/HTV9.png",HTV9
@@ -89,15 +89,15 @@ https://livevlisctcdnw.seenow.vn/mean/HC/manifest.mpd
 https://livevlisctcdnw.seenow.vn/mean/BOXHIT/manifest.mpd
 
 #EXTINF:-1 tvg-id="afnhd" group-title="💚[THIẾT YẾU]" tvg-logo="https://i.imgur.com/KL9oaqc.png",AFN
-https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
+https://vmttv.dpdns.org/tv360/?id=215
 #EXTINF:-1 tvg-id="antvhd" group-title="💚[THIẾT YẾU]" tvg-logo="https://i.imgur.com/7l2gVn9.png",ANTV
-https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
+https://vmttv.dpdns.org/tv360/?id=20
 #EXTINF:-1 tvg-id="qpvnhd" group-title="💚[THIẾT YẾU]" tvg-logo="https://i.imgur.com/WUaEBQZ.png",QPVN
-https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
+https://vmttv.dpdns.org/tv360/?id=19
 #EXTINF:-1 tvg-id="sctv2hd" group-title="💚[THIẾT YẾU]" tvg-logo="https://i.imgur.com/sURj0j4.png",SCTV2
-https://freem3u.xyz/api/live/play.m3u8?vid=201
+https://vmttv.dpdns.org/tv360/?id=201
 #EXTINF:-1 tvg-id="sctv6hd" group-title="💚[THIẾT YẾU]" tvg-logo="https://i.imgur.com/2oOVS42.png",SCTV6
-https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
+https://vmttv.dpdns.org/tv360/?id=232
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="💚[THIẾT YẾU]" tvg-logo="https://i.imgur.com/CyFnZs1.png",SCTV PHIM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
