@@ -1,48 +1,48 @@
 ﻿#EXTM3U url-tvg="https://lichphatsong.io.vn/epg.xml"
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="💕[VTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/VTV1.png",VTV1
-https://vmttv.dpdns.org/tv360/?id=2
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv1__vtv720p-h264/index.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="💕[VTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/VTV2.png",VTV2
-https://vmttv.dpdns.org/tv360/?id=3
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv2__vtv720p-h264/index.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="💕[VTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/VTV3.png",VTV3
-https://vmttv.dpdns.org/tv360/?id=4
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv3__vtv720p-h264/index.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" group-title="💕[VTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/VTV4.png",VTV4
-https://vmttv.dpdns.org/tv360/?id=108
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv4__vtv720p-h264/index.m3u8
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="💕[VTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/VNTODAY.png",VIETNAM TODAY
-https://vmttv.dpdns.org/tv360/?id=9951
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vietnamtoday__vtv720p-h264/index.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" group-title="💕[VTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/VTV5.png",VTV5
-https://vmttv.dpdns.org/tv360/?id=110
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv5__vtv720p-h264/index.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="💕[VTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/VTV5-TNB.png",VTV5-TNB
-https://vmttv.dpdns.org/tv360/?id=157
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv5tnb__vtv720p-h264/index.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="💕[VTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/VTV5-TN.png",VTV5-TN
-https://vmttv.dpdns.org/tv360/?id=207
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv5tn__vtv720p-h264/index.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="💕[VTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/VTV6.png",VTV6
-https://vmttv.dpdns.org/tv360/?id=10043
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv6__vtv720p-h264/index.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" group-title="💕[VTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/VTV7.png",VTV7
-https://vmttv.dpdns.org/tv360/?id=6
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv7__vtv720p-h264/index.m3u8
 #EXTINF:-1 tvg-id="vtv8hd" group-title="💕[VTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/VTV8.png",VTV8
-https://vmttv.dpdns.org/tv360/?id=115
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv8__vtv720p-h264/index.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="💕[VTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/VTV9.png",VTV9
-https://vmttv.dpdns.org/tv360/?id=8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv9__vtv720p-h264/index.m3u8
 #EXTINF:-1 tvg-id="vtv10hd" group-title="💕[VTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/VTV10.png",VTV10
-https://vmttv.dpdns.org/tv360/?id=98
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv10__vtv720p-h264/index.m3u8
 
 #EXTINF:-1 tvg-id="htv1" group-title="💛[HTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/HTV1.png",HTV1
-https://vmttv.dpdns.org/tv360/?id=190
+https://1011154949.vnns.net/CDN-FPT02/HTV1-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htv2hd" group-title="💛[HTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/HTV2.png",HTV2
-https://vmttv.dpdns.org/tv360/?id=191
+https://1011154949.vnns.net/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htv3" group-title="💛[HTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/HTV3.png",HTV3
-https://vmttv.dpdns.org/tv360/?id=192
+https://1011154949.vnns.net/CDN-FPT02/HTV3-SD-720p/playlist.m3u8
 #EXTINF:-1 tvg-id="htv4" group-title="💛[HTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/HTV4.png",HTV4
 https://vmttv.dpdns.org/tv360/?id=9
 #EXTINF:-1 tvg-id="htv5" group-title="💛[HTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/HTV5.png",HTV5
 https://vmttv.dpdns.org/tv360/?id=151
 #EXTINF:-1 tvg-id="htv7hd" group-title="💛[HTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/HTV7.png",HTV7
-https://vmttv.dpdns.org/tv360/?id=193
+https://1011154949.vnns.net/CDN-FPT02/HTV7-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htv9hd" group-title="💛[HTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/HTV9.png",HTV9
-https://vmttv.dpdns.org/tv360/?id=194
+https://1011154949.vnns.net/CDN-FPT02/HTV9-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="💛[HTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/HTVTT.png",HTV THỂ THAO
-https://vmttv.dpdns.org/tv360/?id=195
+https://1011154949.vnns.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="axnhd" group-title="🎥[QUỐC TẾ]" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
