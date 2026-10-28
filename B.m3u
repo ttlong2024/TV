@@ -17,11 +17,7 @@ https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv3__vtv720p-h264/index.m
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv5__vtv720p-h264/index.m3u8
 
 #EXTINF:-1 tvg-id="vtv6hd" group-title="💕[VTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/VTV6.png",VTV6
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9
-https://livezenatm.vtvprime.vn/live/data8/VTV6/Live_DASHDRM/VTV6.mpd
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv6__vtv720p-h264/index.m3u8
 
 #EXTINF:-1 tvg-id="vtv10hd" group-title="💕[VTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/VTV10.png",VTV10
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
