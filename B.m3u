@@ -1,41 +1,32 @@
 #EXTM3U url-tvg="https://lichphatsong.io.vn/epg.xml"
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="💕[VTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/VTV1.png",VTV1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cca908f736f54dfc90ec844fe123942c:9fea9e1b52e1e87a7d4c1dec0c46307f
-https://livevlisctcdnw.seenow.vn/livesnv2/VTV1_HD/manifest.mpd
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv1/free/master.m3u8
 
 #EXTINF:-1 tvg-id="vtv2hd" group-title="💕[VTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/VTV2.png",VTV2
-https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv2__vtv720p-h264/index.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv2/free/master.m3u8
 
 #EXTINF:-1 tvg-id="vtv3hd" group-title="💕[VTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/VTV3.png",VTV3
-https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv3__vtv720p-h264/index.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv3/free/master.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hd" group-title="💕[VTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/VTV5.png",VTV5
-https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv5__vtv720p-h264/index.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv5/free/master.m3u8
 
 #EXTINF:-1 tvg-id="vtv6hd" group-title="💕[VTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/VTV6.png",VTV6
-https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv6__vtv720p-h264/index.m3u8
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv6_free/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtv10hd" group-title="💕[VTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/VTV10.png",VTV10
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9
-https://livezenatm.vtvprime.vn/live/data8/VTV6_HD/Live_DASHDRM/VTV6_HD.mpd
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv10/free/master.m3u8
 
 #EXTINF:-1 tvg-id="htv2hd" group-title="💛[HTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/HTV2.png",HTV2
 https://1011154949.vnns.net/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="htv7hd" group-title="💛[HTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/HTV7.png",HTV7
 https://1011154949.vnns.net/CDN-FPT02/HTV7-HD-1080p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="htv9hd" group-title="💛[HTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/HTV9.png",HTV9
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/livesnv2/HTV9/manifest.mpd
+https://1011154949.vnns.net/CDN-FPT02/HTV9-HD-1080p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="💛[HTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/HTVTT.png",HTV THỂ THAO
 https://1011154949.vnns.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
 
