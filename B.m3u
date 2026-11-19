@@ -19,16 +19,16 @@ https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv6_free/playlist.m3u8
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv10/free/master.m3u8
 
 #EXTINF:-1 tvg-id="htv2hd" group-title="💛[HTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/HTV2.png",HTV2
-https://vmttv.dpdns.org/tv360/?id=htv2
+https://vmttv.dpdns.org/tv360/?id=191
 
 #EXTINF:-1 tvg-id="htv7hd" group-title="💛[HTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/HTV7.png",HTV7
-https://vmttv.dpdns.org/tv360/?id=htv7-hd
+https://vmttv.dpdns.org/tv360/?id=193
 
 #EXTINF:-1 tvg-id="htv9hd" group-title="💛[HTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/HTV9.png",HTV9
-https://vmttv.dpdns.org/tv360/?id=htv9-hd
+https://vmttv.dpdns.org/tv360/?id=194
 
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="💛[HTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/HTVTT.png",HTV THỂ THAO
-https://vmttv.dpdns.org/tv360/?id=htv-the-thao
+https://vmttv.dpdns.org/tv360/?id=195
 
 #EXTINF:-1 tvg-id="axnhd" group-title="🎥[QUỐC TẾ]" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
