@@ -28,7 +28,7 @@ https://live.tvon.vn/s2/abr_hls/htv7/720p.m3u8
 https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/hcmtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="💛[HTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/HTVTT.png",HTV THỂ THAO
-https://1011154949.vnns.net/htvc/htvthethao.1080p.nimble.adm.tms/playlist.m3u8
+https://vmttv.dpdns.org/tv360/?id=htv-the-thao
 
 #EXTINF:-1 tvg-id="axnhd" group-title="🎥[QUỐC TẾ]" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
