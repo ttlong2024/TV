@@ -89,15 +89,15 @@ https://livevlisctcdnw.seenow.vn/mean/HC/manifest.mpd
 https://livevlisctcdnw.seenow.vn/mean/BOXHIT/manifest.mpd
 
 #EXTINF:-1 tvg-id="afnhd" group-title="💚[THIẾT YẾU]" tvg-logo="https://i.imgur.com/KL9oaqc.png",AFN
-https://vmttv.dpdns.org/tv360/?id=215
+https://freem3u.xyz/api/live/play.m3u8?vid=215
 #EXTINF:-1 tvg-id="antvhd" group-title="💚[THIẾT YẾU]" tvg-logo="https://i.imgur.com/7l2gVn9.png",ANTV
-https://vmttv.dpdns.org/tv360/?id=20
+https://freem3u.xyz/api/live/play.m3u8?vid=20
 #EXTINF:-1 tvg-id="qpvnhd" group-title="💚[THIẾT YẾU]" tvg-logo="https://i.imgur.com/WUaEBQZ.png",QPVN
-https://vmttv.dpdns.org/tv360/?id=19
+https://freem3u.xyz/api/live/play.m3u8?vid=19
 #EXTINF:-1 tvg-id="sctv2hd" group-title="💚[THIẾT YẾU]" tvg-logo="https://i.imgur.com/sURj0j4.png",SCTV2
-https://vmttv.dpdns.org/tv360/?id=201
+https://freem3u.xyz/api/live/play.m3u8?vid=201
 #EXTINF:-1 tvg-id="sctv6hd" group-title="💚[THIẾT YẾU]" tvg-logo="https://i.imgur.com/2oOVS42.png",SCTV6
-https://vmttv.dpdns.org/tv360/?id=232
+https://freem3u.xyz/api/live/play.m3u8?vid=232
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="💚[THIẾT YẾU]" tvg-logo="https://i.imgur.com/CyFnZs1.png",SCTV PHIM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
