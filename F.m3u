@@ -28,21 +28,21 @@ https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv9__vtv720p-h264/index.m
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv10__vtv720p-h264/index.m3u8
 
 #EXTINF:-1 tvg-id="htv1" group-title="💛[HTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/HTV1.png",HTV1
-https://tv.vietanhtv.top/vieon/vieon.php?id=htv1
+https://dethich.pw/htv1/index.m3u8
 #EXTINF:-1 tvg-id="htv2hd" group-title="💛[HTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/HTV2.png",HTV2
-https://tv.vietanhtv.top/vieon/vieon.php?id=vie-channel-htv2-hd
+https://dethich.pw/htv2/index.m3u8
 #EXTINF:-1 tvg-id="htv3" group-title="💛[HTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/HTV3.png",HTV3
-https://tv.vietanhtv.top/vieon/vieon.php?id=htv3
+https://dethich.pw/htv3/index.m3u8
 #EXTINF:-1 tvg-id="htv4" group-title="💛[HTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/HTV4.png",HTV4
-https://tv.vietanhtv.top/vieon/vieon.php?id=htv4-sd
+https://dethich.pw/htv4/index.m3u8
 #EXTINF:-1 tvg-id="htv5" group-title="💛[HTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/HTV5.png",HTV5
-https://tv.vietanhtv.top/vieon/vieon.php?id=htv5-sd
+https://dethich.pw/htv5/index.m3u8
 #EXTINF:-1 tvg-id="htv7hd" group-title="💛[HTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/HTV7.png",HTV7
-https://tv.vietanhtv.top/vieon/vieon.php?id=htv7-hd
+https://dethich.pw/htv7/index.m3u8
 #EXTINF:-1 tvg-id="htv9hd" group-title="💛[HTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/HTV9.png",HTV9
-https://tv.vietanhtv.top/vieon/vieon.php?id=htv9-hd
+https://dethich.pw/htv9/index.m3u8
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="💛[HTV]" tvg-logo="https://raw.githubusercontent.com/ttlong2024/Pics/refs/heads/main/HTVTT.png",HTV THỂ THAO
-https://tv.vietanhtv.top/vieon/vieon.php?id=htv-the-thao
+https://dethich.pw/htvthethao/index.m3u8
 
 #EXTINF:-1 tvg-id="axnhd" group-title="🎥[QUỐC TẾ]" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
